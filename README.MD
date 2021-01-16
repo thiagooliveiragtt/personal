@@ -1,1 +1,3 @@
-## MEU SITE PESSOAL EM DESENVOLVIMENTO
+## MEU SITE PESSOAL 
+
+# Foi utilizado o tema free bootstrap, [Acesse aqui o tema](https://startbootstrap.com/theme/freelancer)
