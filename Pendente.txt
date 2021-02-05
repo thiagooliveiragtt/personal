@@ -1,5 +1,5 @@
 Questão do topico livros
-Atualizar links/anexar os folders
+Atualizar os folders com o selos de turismo
 Trocar divisão livro para GT Turismo, e Coletivo, para livro
 Selos de turismo (<img class="img-fluid rounded mb-5" src="assets/img/Selos.png" alt="" />])
 
