@@ -1,3 +1,8 @@
+Questão do topico livros
+Atualizar links/anexar os folders
+Trocar divisão livro para GT Turismo, e Coletivo, para livro
+Selos de turismo (<img class="img-fluid rounded mb-5" src="assets/img/Selos.png" alt="" />])
+
 Livro
 https://drive.google.com/file/d/17tFP5S9JxTrUtRvgmSqsLGVFj9FuaKVt/view (Discurso AL)
 https://www.youtube.com/watch?v=i5vPudpTD0A&feature=youtu.be (TV Assembleia)
@@ -9,47 +14,3 @@ https://www.youtube.com/watch?v=GIzBItxxEdY (curta finc)
 https://drive.google.com/file/d/1kSZ2SQHEMIgCxWViDczBMncZb1bYiOZv/view (Homero homem)
 https://drive.google.com/file/d/17tFP5S9JxTrUtRvgmSqsLGVFj9FuaKVt/view (patrimonio cultural)             
 https://drive.google.com/file/d/1kSZ2SQHEMIgCxWViDczBMncZb1bYiOZv/view (live)
-
-Questão do topico livros
-Atualizar links/anexar os folders
-Trocar divisão livro para GT Turismo, e Coletivo, para livro
-Selos de turismo (<img class="img-fluid rounded mb-5" src="assets/img/Selos.png" alt="" />])
-
-<head>
-	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-	<title>HTML5 Vídeo</title>
-</head>
-
-<body>
-	<div>
-	  <button onclick="document.getElementById('player').play()">Play</button>
-	  <button onclick="document.getElementById('player').pause()">Pause</button>
-	  <button onclick="document.getElementById('player').volume+=0.1">Aumentar volume</button>
-	  <button onclick="document.getElementById('player').volume-=0.1">Diminuir volume</button>
-	</div>
-
-	<audio id="player" autoplay="autoplay" controls="controls">
-	  <source src="sua_musica.mp3" type="audio/mp3" />
-	  seu navegador não suporta HTML5
-	</audio>
-</body>
-</html>
-
-lançamento do livro.....
-
-Iniciativa açu
-Cartilha
-Cartilha sobre Tombamento e registro a importância da sua salvaguarda
-https://drive.google.com/file/d/13clw8uBoUiGuPNK7ShorhgSJNxqQkWV5/view?
-
-Relatório
-Dançares Étnicos Patrimônio Imaterial no Vale do Cunhaú
-https://drive.google.com/file/d/1W3IzVSUzGkMjZYs3WPW8DqY9eJH_x7ni/view?
-
-Resumo Explandido 
-Vale do Cunhaú Uma Analíse do seu Patrimônio Cultural Material
-https://drive.google.com/file/d/1HMLZy-0LdiZ-xbRweSm2jeGlXaWgygoz/view
-
-Fotos
-Vale do Cunhaú Uma Analíse do seu Patrimônio Cultural Material
-https://drive.google.com/folderview?id=1IvE3f0hGDhlrNxtsCDnLn-8g8Q4sHFSk
