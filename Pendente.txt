@@ -9,4 +9,4 @@ Trocar divisão livro para GT Turismo, e Coletivo, para livro
 <p> <a target="_blank" href="https://www.instagram.com/p/B42PIsbFriT/?igshid=1tgh6woclvt00">Editora IFRN</a><p>         
                                    
 Atualizar os folders com o selos de turismo
-Selos de turismo (<img class="img-fluid rounded mb-5" src="assets/img/Selos.png" alt="" />]
+Selos de turismo <img class="img-fluid rounded mb-5" src="assets/img/Selos.png" alt=""/>
